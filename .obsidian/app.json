@@ -1,0 +1,11 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "promptDelete": false,
+  "foldHeading": false,
+  "foldIndent": false,
+  "alwaysUpdateLinks": true,
+  "readableLineLength": true,
+  "showFrontmatter": true,
+  "fileSortOrder": "alphabetical"
+}

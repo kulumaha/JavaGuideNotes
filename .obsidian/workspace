@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "38d0be68866c1fc4",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ba56a6df734d400",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "JavaGuide.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "80c832a7c15534f8",
+    "type": "split",
+    "children": [
+      {
+        "id": "ad8fee254a80ecdf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a1f324c2f9cac4be",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5d4e6304a944ca14",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2c1bc20665e47f01",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a75ca1bb55fbc7f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "643e98ed3eccd686",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "JavaGuide.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "9ba56a6df734d400",
+  "lastOpenFiles": [
+    "JavaGuide.md",
+    "Java基础/变量槽.md",
+    "MySQL/MySQL优化.md",
+    "ExcalidrawFolder/微服务架构图.excalidraw.md",
+    "设计模式/代理模式/Spring框架使用的两种动态代理.md",
+    "Java基础/异常.md",
+    "ExcalidrawFolder/层级异常结构.excalidraw.md",
+    "Java基础/高位对齐.md",
+    "Java基础/方法区.md",
+    "Java基础/基础知识.md"
+  ]
+}
